@@ -87,6 +87,7 @@ template {
  */
 
 a {
+  color: white;
   background-color: transparent;
 }
 
@@ -96,6 +97,7 @@ a {
 
 a:active,
 a:hover {
+  color: white;
   outline: 0;
 }
 
